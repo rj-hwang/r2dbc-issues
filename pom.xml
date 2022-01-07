@@ -14,7 +14,7 @@
     <!-- version -->
     <reactor.version>Californium-SR6</reactor.version>
     <r2dbc.version>Arabba-M8</r2dbc.version>
-    <h2.version>1.4.199</h2.version>
+    <h2.version>2.0.206</h2.version>
     <junit5.version>5.4.2</junit5.version>
     <assertj.version>3.12.2</assertj.version>
 
